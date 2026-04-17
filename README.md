@@ -2,7 +2,7 @@
  Automatic Light & Fan Control System
 
  Overview
-An automation system that controls lights and fans based on human presence to reduce electricity wastage.
+ An automation system that controls lights and fans based on human presence to reduce electricity wastage.
 
 Features
 - Automatic ON/OFF control
