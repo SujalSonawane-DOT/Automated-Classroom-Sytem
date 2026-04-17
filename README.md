@@ -23,7 +23,7 @@ Project Image
 
 
 ## 💻 Code
-(Add code)
+View code
 
  Future Improvements
 - Smart app control
