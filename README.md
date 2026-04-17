@@ -19,10 +19,10 @@ Components Used
 2. Arduino processes input
 3. Lights and fan turn ON/OFF automatically
 
-![Project Image]([Automated classroom system .pdf](https://github.com/SujalSonawane-DOT/Automated-Classroom-Sytem/blob/main/Automated%20classroom%20system%20.pdf))
+![Project Report]([Automated classroom system .pdf](https://github.com/SujalSonawane-DOT/Automated-Classroom-Sytem/blob/main/Automated%20classroom%20system%20.pdf))
 
 ## 💻 Code
-![Project Image]([Automated Classroo Sytem Code.pdf](https://github.com/SujalSonawane-DOT/Automated-Classroom-Sytem/blob/main/Automatic%20Classroom%20System%20Code.pdf)
+![Project code]([Automated Classroo Sytem Code.pdf](https://github.com/SujalSonawane-DOT/Automated-Classroom-Sytem/blob/main/Automatic%20Classroom%20System%20Code.pdf)
 
  Future Improvements
 - Smart app control
