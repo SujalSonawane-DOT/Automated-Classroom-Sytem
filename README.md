@@ -20,8 +20,7 @@ Components Used
 3. Lights and fan turn ON/OFF automatically
 
 [View Project Report](https://github.com/SujalSonawane-DOT/Automated-Classroom-Sytem/blob/main/Automated%20classroom%20system%20.pdf)
-  
-Code
+
 [View code](https://github.com/SujalSonawane-DOT/Automated-Classroom-Sytem/blob/main/Automatic%20Classroom%20System%20Code.pdf)
 
  Future Improvements
