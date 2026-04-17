@@ -20,10 +20,10 @@ Components Used
 3. Lights and fan turn ON/OFF automatically
 
 Project Image
-
+View Image
 
 ## 💻 Code
-View code
+View code (https://github.com/SujalSonawane-DOT/Automated-Classroom-Sytem/blob/main/Automatic%20Classroom%20System%20Code.pdf)
 
  Future Improvements
 - Smart app control
