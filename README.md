@@ -11,13 +11,15 @@ Features
 
 Components Used
 - Arduino
-- Sensors (IR/PIR)
+- Sensors (PIR)
 - Relay Module
 
  Working
 1. Sensor detects human presence
 2. Arduino processes input
 3. Lights and fan turn ON/OFF automatically
+
+Project Image
 
 
 ## 💻 Code
