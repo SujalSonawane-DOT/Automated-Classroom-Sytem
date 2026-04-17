@@ -22,7 +22,7 @@ Components Used
 ![Project Image]([Automated classroom system .pdf](https://github.com/SujalSonawane-DOT/Automated-Classroom-Sytem/blob/main/Automated%20classroom%20system%20.pdf))
 
 ## 💻 Code
-View code (https://github.com/SujalSonawane-DOT/Automated-Classroom-Sytem/blob/main/Automatic%20Classroom%20System%20Code.pdf)
+![Project Image]([Automated Classroo Sytem Code.pdf](https://github.com/SujalSonawane-DOT/Automated-Classroom-Sytem/blob/main/Automatic%20Classroom%20System%20Code.pdf)
 
  Future Improvements
 - Smart app control
